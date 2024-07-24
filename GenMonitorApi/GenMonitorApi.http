@@ -1,0 +1,6 @@
+@GenMonitorApi_HostAddress = http://localhost:5163
+
+GET {{GenMonitorApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

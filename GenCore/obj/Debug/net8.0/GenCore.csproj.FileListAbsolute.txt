@@ -1,0 +1,12 @@
+C:\Workspace\GITHub\Personal\general\GenCore\obj\Debug\net8.0\GenCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\GITHub\Personal\general\GenCore\obj\Debug\net8.0\GenCore.AssemblyInfoInputs.cache
+C:\Workspace\GITHub\Personal\general\GenCore\obj\Debug\net8.0\GenCore.AssemblyInfo.cs
+C:\Workspace\GITHub\Personal\general\GenCore\obj\Debug\net8.0\GenCore.csproj.CoreCompileInputs.cache
+C:\Workspace\GITHub\Personal\general\GenCore\obj\Debug\net8.0\GenCore.sourcelink.json
+C:\Workspace\GITHub\Personal\general\GenCore\bin\Debug\net8.0\GenCore.deps.json
+C:\Workspace\GITHub\Personal\general\GenCore\bin\Debug\net8.0\GenCore.dll
+C:\Workspace\GITHub\Personal\general\GenCore\bin\Debug\net8.0\GenCore.pdb
+C:\Workspace\GITHub\Personal\general\GenCore\obj\Debug\net8.0\GenCore.dll
+C:\Workspace\GITHub\Personal\general\GenCore\obj\Debug\net8.0\refint\GenCore.dll
+C:\Workspace\GITHub\Personal\general\GenCore\obj\Debug\net8.0\GenCore.pdb
+C:\Workspace\GITHub\Personal\general\GenCore\obj\Debug\net8.0\ref\GenCore.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GenMonitorApi.props" />
+</Project>
